@@ -46,4 +46,7 @@ This project is a machine learning model that classifies emails as either **Spam
 | F1 Score   | 98.1%     |
 
 📌 **Confusion Matrix:**
-
+|               | Predicted: Ham | Predicted: Spam |
+|---------------|----------------|-----------------|
+| **Actual: Ham**   | 20373             | 94              |
+| **Actual: Spam**  | 639               | 17665           |
